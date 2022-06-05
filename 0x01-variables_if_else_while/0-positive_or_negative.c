@@ -3,10 +3,9 @@
 #include <stdio.h>
 
 /**
- * * main - assign a random number to the variable.
- * *         it is positive, negative, or zero.
+ * * main - assign a random number to the variable whether it is positive, negative, or zero.
  * * 
- * Return: 0 on success
+ * * Return: Always 0.
 */
 int main(void)
 {
