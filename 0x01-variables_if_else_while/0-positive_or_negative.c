@@ -3,13 +3,10 @@
 #include <stdio.h>
 
 /**
- * main - Check if a number.
- * @void: Null value
- *
- * Description: Print if a number is positive, negative or zero
- * Return: Zero value
+ * main - assign a random number to the variable.
+ * based a condition
+ * Return: Always 0
  */
-
 int main(void)
 {
 int n;
@@ -17,13 +14,10 @@ int n;
 srand(time(0));
 n = rand() - RAND_MAX / 2;
 if (n > 0)
-{
 printf("%d is positive\n", n);			
-}
-else if (n < 0)
-{
+if (n < 0)
 printf("%d is negative\n", n);
-else
+if
 {	
 printf("%d is zero\n", n);
 }
