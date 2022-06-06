@@ -7,15 +7,18 @@
 
 int main(void)
 {
-int numb;
+int i = 0;														
 
-for (numb = '0' ; numb <= '9' ; numb++)
+while (i <= '9')
 {
-putchar(numb);
-if (numb != '9')	
+putchar(i);
+if (i != '9')
 {
 putchar(',');
-putchar(' ');																}
+putchar(' ');
+}
+++i;
+}
 putchar('\n');
 return (0);
 }
