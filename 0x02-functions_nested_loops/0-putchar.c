@@ -1,20 +1,20 @@
+#include <stdio.h>
+
 /**
  * main - prints putcar followed by a new line
  * Return: 0 on success.
-*/
+ */
 
 int main(void)
-int putchar(int char)
-
 {	
-_putchar('_');
-_putchar('p');
-_putchar('u');
-_putchar('t');
-_putchar('c');
-_putchar('h');
-_putchar('a');
-_putchar('r');
-_putchar('\n');
+putchar('_');
+putchar('p');
+putchar('u');
+putchar('t');
+putchar('c');
+putchar('h');
+putchar('a');
+putchar('r');
+putchar('\n');
 return (0);
 }
