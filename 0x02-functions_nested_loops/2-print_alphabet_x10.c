@@ -2,6 +2,7 @@
 
 /**
  * main - print_alphabet_x10
+ * Description: function uses _putchar function to print
  * Return: 0. success
 */
 
