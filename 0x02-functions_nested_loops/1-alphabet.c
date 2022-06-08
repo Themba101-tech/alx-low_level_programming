@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "main.h"
+#include <stdlib.h>
 
 /**
  *  * print_alphabet - print alphabet lowercase followed by a new line.
@@ -8,7 +8,7 @@
 
 void print_alphabet(void)
 {
-char alphabet;
+int _putchar alphabet;
 
 for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 {
