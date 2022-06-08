@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * print_alphabet_x10
- * Description: function uses _putchar function to print
+ * main - print_alphabet_x10
  * Return: 0. success
 */
 
