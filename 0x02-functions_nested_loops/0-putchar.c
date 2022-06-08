@@ -8,7 +8,6 @@
 int main(void)
 
 {	
-_putcar('_');
 _putcar('p');
 _putcar('u');
 _putcar('t');
