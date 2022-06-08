@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - print_alphabet_x10 - check code.
+ * print_alphabet_x10 - prints alphabet letters
  * Description: function uses _putchar function to print_alphabet_x10
  * Return: 0. success
 */
