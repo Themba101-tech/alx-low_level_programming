@@ -22,7 +22,7 @@ _putchar(' ');
 _putchar(n + '0');
 if (j == 9)
 continue;
-_putcha(',');
+_putchar(',');
 _putchar(' ');
 }
 else
